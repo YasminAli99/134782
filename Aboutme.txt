@@ -1,0 +1,5 @@
+ Yasmin Choma Mohammed Ali
+
+ 134782
+ 
+ A Mobile-Based Skin Diagnosis System Using Convolutional Neural Network (CNN).
